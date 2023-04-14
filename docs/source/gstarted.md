@@ -1,21 +1,21 @@
-﻿## Начало работы
+﻿# Getting started
 
-Контент
+Content
 
 [[_TOC_]]
 
-### Установка расширения
+## Installation
 
-Контент
+Content
 
-### Настройка расширения
+## Configuration
 
-Контент
+Content
 
-### Выбор рабочей директории
+## Working directory
 
-Контент
+Content
 
-### Создание и удаление папки
+## Creation and deletion of folder
 
-Контент
+Content

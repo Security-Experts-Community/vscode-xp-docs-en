@@ -1,29 +1,29 @@
-﻿## Тестирование правил
+﻿# Rules testing
 
-Контент
+Content
 
 [[_TOC_]]
 
-### Создание интеграционного теста
+## Integration test
 
-Контент
+Content
 
-### Создание модульного теста
+## Modular test
 
-Контент
+Content
 
-### Сбор графов
+## Graph building
 
-Контент
+Content
 
-### Запуск интеграционного теста
+## Integration test running
 
-Контент
+Content
 
-### Запуск модульного теста
+## Modular test running
 
-Контент
+Content
 
-### Проверка срабатываний графа корреляций на необработанные события
+## Raw event checking with all rules graph
 
-Контент
+Content

@@ -1,13 +1,13 @@
-﻿## Публикация
+﻿# Publication
 
-Контент
+Content
 
 [[_TOC_]]
 
-### Публикация экспертизы для EDR-решений
+## Publication of EDR expertise
 
-Контент
+Content
 
-### Публикация экспертизы для SIEM-решений
+## Publication of SIEM expertise
 
-Контент
+Content

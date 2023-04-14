@@ -1,37 +1,37 @@
-﻿# Разработка правил
+﻿# Rules Development
 
-Контент
+Content
 
 [[_TOC_]]
 
-## Создание пакета правил
+## Package creation
 
-Контент
+Content
 
-## Импорт пакета экспертизы из файла формата KB
+## Import KB file
 
-Контент
+Content
 
-## Создание правила корреляции
+## Correlation
 
-Контент
+Content
 
-## Создание правила обогащения
+## Enrichment
 
-Контент
+Content
 
-## Редактирование правила
+## Rule editing
 
-Контент
+Content
 
-## Изменение имени правила
+## Rule renaming
 
-Контент
+Content
 
-## Добавление метаданных
+## Rule metadata
 
-Контент
+Content
 
-## Локализация правила
+## Rule localization
 
-Контент
+Content
