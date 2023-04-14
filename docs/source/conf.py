@@ -4,7 +4,7 @@
 
 project = 'VSCode-XP'
 copyright = '2023, Security Experts Community'
-author = 'Anton Kutepov'
+author = 'Security Experts Community'
 
 release = '0.1'
 version = '0.1.0'
