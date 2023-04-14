@@ -1,9 +1,9 @@
-Документация для проекта VSCode-XP
+VSCode XP project documentation
 =======================================
 
 [![Documentation Status](https://readthedocs.org/projects/vscode-xp/badge/?version=latest)](https://vscode-xp.readthedocs.io/en/latest/?badge=latest)
 
-Данный репозиторий содержит русскую версию документации для проекта VSCode-XP. 
+This repository contains english localization of VSCode XP project.
 
-Ссылка на проект:
+Project link:
 https://github.com/Security-Experts-Community/vscode-xp
