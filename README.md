@@ -5,5 +5,6 @@ VSCode XP project documentation
 
 This repository contains english localization for VSCode XP project documentation.
 
+
 Project link:
 https://github.com/Security-Experts-Community/vscode-xp
